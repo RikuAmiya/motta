@@ -187,7 +187,7 @@
 | name       | string  | null: false |
 | user_text  | text    |             |
 | image      | string  |             |
-| phone      | string  | null: false |
+| phone      | string  |             |
 
 ### Association
 
